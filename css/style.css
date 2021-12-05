@@ -369,10 +369,11 @@ header .navbar ul li a:hover{
     bottom:7.5rem; right: 2rem;
     z-index: 100;
     display: none;
-    width:44px;
 }
 
-
+.top img {
+    width:44px;
+}
 
 
 
