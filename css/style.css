@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 
 :root{
-    --yellow1:#f9ca24;
-    --yellow:#ff7a00;
+    --yellow:#f9ca24;
+    --orange:#ff7a00;
 }
 
 *{
@@ -456,4 +456,5 @@ header .navbar ul li a:hover{
     .contact .row form{
         margin:3rem 0;
     }
+    
  }
