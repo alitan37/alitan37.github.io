@@ -459,4 +459,7 @@ header .navbar ul li a:hover{
         margin:3rem 0;
     }
     
+    .top img {
+        width:40px;
+    }
  }
